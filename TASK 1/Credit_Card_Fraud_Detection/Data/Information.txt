@@ -1,1 +1,4 @@
-hello
+You have to copy paste the dataset in this folder.
+I used the Dataset from kaggle.
+use can doenload the dataset using this -->    https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Make sure the File Name should be same as used in program.

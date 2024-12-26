@@ -63,3 +63,65 @@ Create a new branch (git checkout -b feature-branch)
 Make changes and commit (git commit -am 'Add new feature')
 Push to the branch (git push origin feature-branch)
 Create a new Pull Request
+
+
+
+TASK-2:🔥 Customer Churn Prediction: Keep Your Customers Coming Back
+
+🌟 Project Overview
+Are you ready to revolutionize your customer retention strategy? The Customer Churn Prediction project is here to help you predict which customers are at risk of leaving, so you can act fast and keep them loyal. By harnessing the power of machine learning, this solution uncovers hidden patterns in customer behavior, providing you with actionable insights to boost customer retention and maximize profits.
+
+🚀 Key Features
+Predict Customer Churn: Understand which customers are likely to leave and why.
+Data-Driven Decisions: Powered by machine learning models like Random Forest and XGBoost for accurate, reliable predictions.
+Proactive Retention: Take action before it’s too late – save customers by predicting churn in advance!
+Clear Visual Insights: Dive deep into churn trends with stunning visualizations that turn data into decisions.
+Real-Time Analysis: Stay on top of customer trends with up-to-date churn predictions.
+⚙️ Technologies Used
+Machine Learning: Scikit-learn, XGBoost
+Data Processing: Pandas, NumPy
+Visualization: Matplotlib, Seaborn
+Cloud Integration: Google Cloud Platform (for powerful, scalable deployment)
+💡 How to Get Started
+🔥 Install and Run in 3 Simple Steps!
+Clone the Repo:
+
+bash
+Copy code
+git clone https://github.com/anushka-singh-rajput/customer-churn-prediction.git
+cd customer-churn-prediction
+Set Up Your Environment:
+
+bash
+Copy code
+python3 -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+Install Dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+💻 Train the Model
+Prepare your dataset (e.g., churn_data.csv).
+
+Train the Model:
+
+bash
+Copy code
+python train_model.py
+Predict Churn:
+
+bash
+Copy code
+python churn_prediction.py
+🔐 Data Privacy
+Your customers' privacy matters. Ensure you use anonymized data and comply with data protection regulations when working with real customer information.
+
+🙌 Contributing
+We’d love to see your contributions! If you want to enhance the project or add new features:
+
+Fork the repo.
+Create a new branch for your changes.
+Commit your changes.
+Push your branch and create a pull request.
+
